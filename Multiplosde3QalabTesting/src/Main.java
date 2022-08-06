@@ -11,7 +11,10 @@ public class Main {
 
         System.out.print("Introduzca un número entero: ");
         X = sc.nextInt();
-
+        /*
+        * Aqui se comprueba si son multiplos  
+        * o no.
+        */
         if (X % 2 == 0 || X % 3 == 0) {
             System.out.println("Es múltiplo de 2 o de 3");
         } else {
