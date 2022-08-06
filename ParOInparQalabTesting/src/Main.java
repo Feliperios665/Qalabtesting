@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/*
+ * Número positivo o negativo
+ * Programa Java que lee un número entero por teclado y muestra si es positivo o negativo.
+ */
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
